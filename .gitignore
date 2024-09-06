@@ -1,4 +1,5 @@
 config/
-*.json
-
 myenv/
+
+accounts.json
+proxies.json
